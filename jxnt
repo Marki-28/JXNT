@@ -1,9 +1,15 @@
-getgenv().Settings = {
-    ["Webhook"] = "https://discord.com/api/webhooks/1245813656684593202/XG4gINV6Y1jm3EwtNEf8ZOrkS_gURk2TtGoyw9X754BX8JrLUAlL-XH46a-GyQt65-oz",
-    ["Discord ID"] = "789192982980591626",
-    
-    ["Mail Pets"] = "itsyoursboialt52",
-    ["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior", "Mythical"},
+getgenv().Settings = {        
+    Notifications = {
+        ["Webhook"] = "https://discord.com/api/webhooks/1245813656684593202/XG4gINV6Y1jm3EwtNEf8ZOrkS_gURk2TtGoyw9X754BX8JrLUAlL-XH46a-GyQt65-oz",
+        ["Discord ID"] = "789192982980591626",
+        ["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior", "Mythical"},
+        ["Difficulty"] = "Above 20m",
+    },
+    Mailing = {
+        ["Usernames"] = {"itsyoursboialt52"}, --// Random chance to send to any.
+        ["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior", "Mythical"},
+        ["Difficulty"] = "Above 1m"
+    }
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/957ebb42504c2c23a15c8e78a4758f38.lua"))()
 
