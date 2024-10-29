@@ -1,4 +1,7 @@
 getgenv().Settings = {        
+    FPSLimit = 8,
+    UseEventEggs = false,
+
     Notifications = {
         ["Webhook"] = "https://discord.com/api/webhooks/1245813656684593202/XG4gINV6Y1jm3EwtNEf8ZOrkS_gURk2TtGoyw9X754BX8JrLUAlL-XH46a-GyQt65-oz",
         ["Discord ID"] = "789192982980591626",
