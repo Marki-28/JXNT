@@ -5,10 +5,11 @@ getgenv().Settings = {
     Notifications = {
         ["Webhook"] = "https://discord.com/api/webhooks/1245813656684593202/XG4gINV6Y1jm3EwtNEf8ZOrkS_gURk2TtGoyw9X754BX8JrLUAlL-XH46a-GyQt65-oz",
         ["Discord ID"] = "789192982980591626",
-        ["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior", "Mythical"},
+        ["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior"},
         ["Difficulty"] = "Above 20m",
     },
     Mailing = {
+        ["Keep Best Pets"] = true
         ["Usernames"] = {"itsyoursboialt52"}, --// Random chance to send to any.
         ["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior", "Mythical"},
         ["Difficulty"] = "Above 1m"
