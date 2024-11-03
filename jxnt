@@ -6,14 +6,14 @@ getgenv().Settings = {
         ["Webhook"] = "https://discord.com/api/webhooks/1245813656684593202/XG4gINV6Y1jm3EwtNEf8ZOrkS_gURk2TtGoyw9X754BX8JrLUAlL-XH46a-GyQt65-oz",
         ["Discord ID"] = "789192982980591626",
         ["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior"},
-        ["Difficulty"] = "Above 20m",
+        ["Difficulty"] = "Above 100m",
         --// It will send based off Rarity OR Difficulty, so please change to your liking.
     },
     Mailing = {
         ["Usernames"] = {"itsyoursboialt52"}, --// Random chance to send to any.
         ["Keep Best Pets"] = false,
-        ["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior", "Mythical"},
-        ["Difficulty"] = "Above 1m"
+        ["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior"},
+        ["Difficulty"] = "Above 10m"
         --// It will send based off Rarity OR Difficulty, so please change to your liking.
     }
 }
