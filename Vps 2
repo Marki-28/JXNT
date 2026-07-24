@@ -24,6 +24,7 @@ getgenv().GAG2Config = {
         ["Rocket Pop"] = 9999,
         ["Bamboo"] = 9999,
         ["Mango"] = 1,
+        ["Pineapple"] = 999,
         ["Acorn"] = 9999,
         ["Sun Bloom"] = 9999,
         ["Star Fruit"] = 9999,
