@@ -79,7 +79,6 @@ getgenv().GAG2Config = {
             ["Sun Bloom"]            = "All",
             ["Firefly"]              = 1,
             ["Star Fruit"]           = "All",
-            ["Acorn"]                = "All",
             ["Rocket Pop"]           = "All",
             ["Rainbow"]              = "All",
             ["Gold"]                 = 25,
@@ -96,7 +95,6 @@ getgenv().GAG2Config = {
         
         ["Y4as0"] = {
             ["Trowel"]               = 200,
-            ["Bamboo"]               = 1000
         }
     },
     COLLECT_MAIL = true,
