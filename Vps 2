@@ -44,6 +44,7 @@ getgenv().GAG2Config = {
         ["Super Watering Can"]  = 9999,
         ["Super Sprinkler"]     = 9999,
         ["Trowel"]              = 9999,
+        ["Harp"]                = 9999,
     },
 
     -- Sell Config
@@ -94,6 +95,7 @@ getgenv().GAG2Config = {
             ["Raccoon"]              = 1,
             ["Hypno Bloom"]          = "All",
             ["Dragon's Breath"]      = "All",
+            ["Harp"]                 = "All",
             ["Moon Bloom"]           = "All"
         },
         
