@@ -97,6 +97,7 @@ AUTO_MAIL_USERNAME = { "Y4as0", "zyzyx1213", "manilacad6" },
         ["Super Syrup Sprinkler"] = "All",
         ["Super Magic Mail"] = "All",
         ["Trowel"] = "All",
+        ["ShadowDragon"] = 1,
         ["Amber Cranberry"] = "All",
         ["Maple Venom Spitter"] = "All",
         ["Atlantic Giant Pumpkin"] = "All"
